@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inserts_Generator_for_DB", "Inserts_Generator_for_DB.csproj", "{F944A5A9-743E-4921-87D9-FBB67E8D4AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F944A5A9-743E-4921-87D9-FBB67E8D4AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F944A5A9-743E-4921-87D9-FBB67E8D4AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F944A5A9-743E-4921-87D9-FBB67E8D4AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F944A5A9-743E-4921-87D9-FBB67E8D4AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9146F2-BF87-41DB-887D-7BE979504565}
+	EndGlobalSection
+EndGlobal
